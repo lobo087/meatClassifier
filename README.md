@@ -19,7 +19,6 @@ https://drive.google.com/file/d/1Z5DJ-MVS1TQV1kow9mIFWTec-ZdOLRLF/view?usp=shari
 
 #Resultado de Evaluación
 
-Una vez entrenado, el modelo ha alcanzado una efectividad del 95.22% como se puede ver en la sección qye lleva por nombre  Evaluación Final de Efectividad del Modelo.
 
 
 
