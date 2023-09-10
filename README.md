@@ -18,5 +18,5 @@ https://drive.google.com/file/d/1Z5DJ-MVS1TQV1kow9mIFWTec-ZdOLRLF/view?usp=shari
 7. Para Finalmente tener la sección final donde se realiza la evaluación final del modelo.
 
 # Resultado de Evaluación
-Una vez entrenado el modelo nos presenta una #### efectividad del 95%
+Una vez entrenado el modelo nos presenta una  efectividad del 95%
 En conclusión una vez realizada la investigación de la mejor metodología encontrada para poder resolver este problema planteado fue mediante el uso de redes neuronales convolucionales
